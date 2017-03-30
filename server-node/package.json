@@ -1,0 +1,9 @@
+{
+  "name": "server-node",
+  "version": "1.0.0",
+  "description": "Serve as backend for OddWorks apps",
+  "main": "index.js",
+  "repository": "https://github.com/poorprogrammer/odd.works.git",
+  "author": "Jane at OddWorks",
+  "license": "MIT"
+}
