@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/poorprogrammer/odd.works.git",
   "author": "Jane at OddWorks",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
