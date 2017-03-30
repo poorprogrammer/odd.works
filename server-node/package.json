@@ -6,7 +6,11 @@
   "repository": "https://github.com/poorprogrammer/odd.works.git",
   "author": "Jane at OddWorks",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/app.js"
+  },
   "dependencies": {
-    "express": "^4.15.2"
+    "express": "^4.15.2",
+    "nodemon": "^1.11.0"
   }
 }
